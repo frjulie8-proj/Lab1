@@ -1,4 +1,4 @@
-# Lab1 Restructuring Lightcast Job Postings Data into Relational Tables
+# Lab 1 : Restructuring Lightcast Job Postings Data into Relational Tables
 This lab1 restructures a large Lightcast job postings dataset into
 
 6 normalized relational tables using Apache Spark (PySpark) on an AWS EC2 instance. 
